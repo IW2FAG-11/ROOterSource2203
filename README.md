@@ -20,9 +20,9 @@ For Ubuntu
 
 sudo apt -y install build-essential libncurses5-dev python unzip gawk git curl jshon
 
-For Debian 11
+For Debian 12
 
-sudo apt install build-essential bash binutils bzip2 flex git-core g++ gcc util-linux gawk sudo apt install help2man intltool libelf-dev zlib1g-dev make libglvnd-dev pkg-config sudo apt install libncurses5-dev libssl-dev patch perl-modules git ncurses-dev libz-dev sudo apt install python2-dev wget gettext xsltproc zlib1g-dev zip unzip libssl-dev sudo apt install python2 python3-dev libelf-dev subversion gettext gawk wget curl sudo apt install rsync perl unrar rar jshon
+sudo apt install build-essential bash binutils bzip2 flex git-core g++ gcc util-linux gawk help2man intltool libelf-dev zlib1g-dev make libglvnd-dev pkg-config libncurses5-dev libssl-dev patch perl-modules git ncurses-dev libz-dev wget gettext xsltproc zlib1g-dev zip unzip libssl-dev python3-dev libelf-dev subversion gettext gawk wget curl rsync perl jshon
 
 Once you have the required packages installed you can create the build system. At the Terminal enter the following lines, waiting for each to complete before entering the next one.
 
